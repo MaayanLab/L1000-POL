@@ -1,0 +1,59 @@
+pert_id	pert_iname
+BRD-K80216442	isosilychristin
+BRD-K51575138	TPCA-1
+BRD-A61304759	tanespimycin
+BRD-K83354763	NFKB-activation-inhibitor-II
+BRD-K39256324	rottlerin
+BRD-K07572174	curcumin
+BRD-K24779182	silybin a-7-o-beta-d-glucuronide
+BRD-K31062320	isosilybin b-7-o-beta-d-glucuronide
+BRD-K43389698	BMS-387032
+BRD-K86574132	BRD-K86574132
+BRD-K40175214	torin-1
+BRD-K69023402	thapsigargin
+BRD-K94588743	isosilybin a-7-o-beta-d-glucuronide
+BRD-K16389764	silychristin
+BRD-K25737009	CD-1530
+BRD-A13084692	troglitazone
+BRD-K53103368	isosilybin a-4''-o-beta-d-glucuronide
+BRD-K97399794	quercetin
+BRD-K48438698	isosilybin b-4''-o-beta-d-glucuronide
+BRD-K73881242	arbidol
+BRD-K78572261	silybin b
+BRD-K29192871	isosilybin a
+BRD-K55591206	epigallocatechin
+BRD-K08132273	tyrphostin
+BRD-K69179556	silybin b-7-o-beta-d-glucuronide
+BRD-A81541225	oligomycin-a
+BRD-K36737713	AG-957
+BRD-K80738081	resveratrol
+BRD-K35305708	isosilybin b
+BRD-A79768653	sirolimus
+BRD-A31107743	brefeldin-a
+BRD-K80353138	silibinin
+BRD-A83326220	brazilin
+BRD-A45498368	WYE-125132
+BRD-K87909389	alvocidib
+BRD-K93937110	silybin b-4''-o-beta-d-glucuronide
+BRD-K81418486	vorinostat
+BRD-A81585303	acadesine
+BRD-U06877554	jg-98
+BRD-K21680192	mitoxantrone
+BRD-K05649647	BRD-K05649647
+BRD-K68525401	silydianin
+BRD-A41316391	"silibinin-2',3-dihydrogensuccinate sodium salt"
+BRD-K06792661	narciclasine
+BRD-A28105619	cucurbitacin-i
+BRD-K88677950	PD-198306
+BRD-K94649603	taxifolin
+BRD-K11403764	silybin a-4''-o-beta-d-glucuronide
+BRD-K04853698	LDN-193189
+BRD-K79602928	metformin
+BRD-K76674262	homoharringtonine
+BRD-K42918627	GSK-2126458
+BRD-K91145395	prostratin
+BRD-A68009927	daunorubicin
+BRD-K08316444	rotenone
+BRD-K88378636	withaferin-a
+BRD-A08789708	silibinin
+BRD-K97808269	BRD-K97808269
