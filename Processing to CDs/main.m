@@ -2,15 +2,16 @@ import com.mongodb.BasicDBObject;
 import java.util.regex.Pattern;
 import com.mongodb.util.JSON;
 import com.mongodb.MongoClient;
+
+% connect to the MongoDB database
+% assume a local MongoDB database is set up at 127.0.0.1. 
+% Change the URL accordingly if the MongoDB database is set up at a different address.
 mongoClient = MongoClient('127.0.0.1',27017);
 db = mongoClient.getDB('L1000_POL');
 readColl = db.getCollection('inst');
 writeColl = db.getCollection('cd');
 sigColl = db.getCollection('sig');
 
-% filter = BasicDBObject();
-% % filter only CPC batch
-% filter.append('det_plate',Pattern.compile('CPD'));
 batches = readColl.distinct('batch');
 batches = j2m(batches);
 
